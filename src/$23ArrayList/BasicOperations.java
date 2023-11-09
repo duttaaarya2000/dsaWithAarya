@@ -9,6 +9,7 @@ public class BasicOperations {
 		ArrayList<Integer> list = new ArrayList<>();
 		// add element TC->O(1)
 		list.add(1);
+		list.add(7);
 		list.add(28);
 		list.add(73);
 		list.add(34);
