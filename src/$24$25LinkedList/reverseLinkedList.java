@@ -1,6 +1,6 @@
 package $24$25LinkedList;
-
-import $24$25LinkedList.LinkedList.Node;
+//TC->O(N)
+//SC->O(1)
 
 public class reverseLinkedList {
 	public class Node{
